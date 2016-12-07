@@ -1,0 +1,17 @@
+#footer {
+    position: relative;
+    padding: 70px 0;
+    background-color: #fcfcfc;
+    z-index: -1;
+}
+
+#footer .box-left {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    /* flex: 1; */
+}
+.menu-footer{
+	text-decoration: none;
+    display: inline;
+}
